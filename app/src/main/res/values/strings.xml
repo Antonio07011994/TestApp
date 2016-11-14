@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="title_activity_full_info">Full Info</string>
+    <string name="about">About</string>
+    <string name="address">Address</string>
+    <string name="company">Company</string>
+    <string name="email">Email</string>
+    <string name="id">Id</string>
+    <string name="phone">Phone</string>
+</resources>
